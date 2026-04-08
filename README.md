@@ -10,17 +10,17 @@ Usuarios: Gestión de roles (Admin/Empleado).
 
 Navegación SPA: Cambio entre secciones sin recargar la página.
 
-🛠️ Tecnologías
+ Tecnologías
 Frontend: HTML5, CSS3 (Grid & Flexbox).
 
 Diseño: UI/UX limpio con tipografía Quicksand.
 
-💻 Instalación
+ Instalación
 Clona el repositorio.
 
 Abre index.html en tu navegador.
 
-👤 Autor
+ Autor
 José Miguel Ardila Rodriguez
 
 Instagram | Facebook
